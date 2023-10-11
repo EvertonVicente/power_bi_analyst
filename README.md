@@ -1,3 +1,4 @@
+
 # Desafio Power BI: Relatório de Análise Financeira
 
 Este repositório contém um relatório elaborado no Power BI, que analisa dados financeiros, incluindo vendas e lucro.
@@ -10,9 +11,9 @@ O relatório é organizado da seguinte forma:
 
 A primeira página do relatório inclui fotos A e B:
 
-![Foto A](imagens/foto_a.png)
+![Pag_1_a](https://github.com/EvertonVicente/power_bi_analyst/assets/142946954/193ca80b-2adc-4501-89f1-84b42fe12a40)
 
-![Foto B](imagens/foto_b.png)
+![Pag_1_b](https://github.com/EvertonVicente/power_bi_analyst/assets/142946954/8e3ee683-4e9e-44b7-9448-3a0d8e2caa90)
 
 - Total de vendas
 - Unidades vendidas
@@ -32,7 +33,7 @@ A segunda página do relatório apresenta:
 - Lucro por segmento
 - Lucro por trimestre
 
-![Relatório de Lucro Detalhado](imagens/relatorio_lucro.png)
+![Pag_2](https://github.com/EvertonVicente/power_bi_analyst/assets/142946954/e2f2599c-9296-4262-a510-0b731987b293)
 
 ## Anexos
 
