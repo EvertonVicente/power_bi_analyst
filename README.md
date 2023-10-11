@@ -39,7 +39,7 @@ A segunda página do relatório apresenta:
 
 Você pode baixar o arquivo do projeto Power BI a partir do seguinte link:
 
-[Download do Projeto Power BI](caminho/para/seuarquivo.pbix)
+[Download do Projeto Power BI](Desafio_Projeto_dio.pbix)
 
 ## Como Contribuir
 
@@ -52,9 +52,6 @@ Contribuições são bem-vindas! Se desejar contribuir para este projeto, siga e
 5. Commit suas alterações: `git commit -m 'Adicione uma nova funcionalidade'`
 6. Faça um push para a branch: `git push origin minha-contribuicao`
 7. Abra um pull request
-
-Consulte o [Guia de Contribuição](CONTRIBUTING.md) para obter mais detalhes.
-
 
 ## Agradecimentos
 
